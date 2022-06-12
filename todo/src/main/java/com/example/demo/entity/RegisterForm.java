@@ -9,7 +9,6 @@ public class RegisterForm {
 	
 	private Integer id;
 
-//	
 
 	
 	private String taskNote;
